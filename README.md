@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/03Sandip/03Sandip/output/snake.svg" alt="Snake animation" />
+
 
 ###
