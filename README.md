@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PiyaJ7](https://github.com/PiyaJ7)
+- 👨‍💻 All of my projects are available at https://github.com/03Sandip
 
 
 <h3 align="left">Connect with me:</h3>
