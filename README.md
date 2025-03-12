@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sandip-paul-053a21259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyamini-de-saram-b7ba3027a" height="30" width="40" /></a><a href="https://discord.gg/discordapp.com/users/piyaminidesaram" target="blank">
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
@@ -80,7 +79,7 @@
     </td>
     <td>
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+         <a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"alt="windows" width="40" height="40 />
         </a>
 
     </td>
