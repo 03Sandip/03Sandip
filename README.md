@@ -34,8 +34,9 @@
     <th>OS</th>
   </tr>
   <tr>
-    <!-- Languages -->
-    <td>
+
+  
+<td>
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
       </a>
@@ -53,7 +54,7 @@
       </a>
     </td>
 
-<!-- Front-End -->
+
  <td>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -72,7 +73,8 @@
       </a>
     </td>
 
-    <!-- Back-End -->
+
+    
  <td>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="70"/>
@@ -82,7 +84,8 @@
       </a>
     </td>
 
-    <!-- Database -->
+
+  
 <td>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70"/>
@@ -95,7 +98,8 @@
       </a>
     </td>
 
-    <!-- Version Control -->
+
+  
  <td>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -108,21 +112,24 @@
       </a>
     </td>
 
-    <!-- AI/ML -->
+    
+    
   <td>
       <a href="https://opencv.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
       </a>
     </td>
 
-    <!-- DevOps -->
+
+   
  <td>
       <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
       </a>
     </td>
 
-    <!-- Testing -->
+
+    
  <td>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="33" height="33"/>
@@ -142,7 +149,8 @@
       </a>
     </td>
 
-    <!-- OS -->
+   
+    
  <td>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
