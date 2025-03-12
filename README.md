@@ -113,6 +113,8 @@
  <td>
       <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg"alt="Jenkins" width="40" height="40"/>
+      </a>
       </a>
     </td>
 
