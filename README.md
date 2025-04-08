@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=610&height=70&duration=5000&lines=Hi+👋,+I'm+Sandip+Paul;" />
 </h1>
-<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">Undergraduate | BTech in Computer Science at BC.ROY ENGINEERING COLLEGE</h3>
+<h3 align="center"><img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="80">Undergraduate | BTech in Computer Science at DR.BC.ROY ENGINEERING COLLEGE</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03Sandip&label=Profile%20views&color=0e75b6&style=flat" alt="03Sandip" /> </p>
