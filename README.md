@@ -106,7 +106,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"alt="AWS" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsazure/azure-original.svg"alt="Azure" width="40" height="40" />   
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/iconsazure/azure-original.svg](https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg)"alt="Azure" width="40" height="40" />   
       </a>
       </a>
     </td>
